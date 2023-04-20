@@ -10,7 +10,7 @@ export default function Donate() {
       <div className="row flex-lg-row-reverse align-items-center py-5 g-5">
         <SideBanner
           url={
-            "https://static.vecteezy.com/system/resources/previews/004/327/955/original/donation-box-throwing-hearts-in-a-box-for-donations-donate-giving-money-and-love-concept-of-charity-give-and-share-your-love-with-people-humanitarian-volunteer-activity-vector.jpg"
+            "https://t3.ftcdn.net/jpg/04/07/88/00/360_F_407880054_fdbzTfwmIBaDmb84pg4hDJ3rb1ezRpZw.jpg"
           }
         />
         <div className="col-lg-6 ">
